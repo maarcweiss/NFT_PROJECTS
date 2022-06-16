@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DOPE GOBLINS.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DOPE GOBLINS.sol": {
+			"keccak256": "0x72974721567fcadaaa4a8eab903ea8aee3203089ee9876e64abf5c7e86d91bca",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f2a4245f9168cc3eac64d666ff3a9f5e4697691794a7b12063f5654222b3911e",
+				"dweb:/ipfs/QmSHdDvb2pVhGiRKNkFHj1UDkX61TpbLtDrW6GJFRJn8oi"
+			]
+		}
+	},
+	"version": 1
+}
